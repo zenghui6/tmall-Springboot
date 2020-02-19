@@ -37,4 +37,4 @@ build/
 *.iml
 out
 gen
-!/src/main/webapp/
+src/main/webapp/
